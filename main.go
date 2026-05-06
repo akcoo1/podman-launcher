@@ -25,7 +25,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/89luca89/podman-launcher/pkg/launcher"
+	"github.com/akcoo1/podman-launcher/pkg/launcher"
 )
 
 //go:embed assets.tar.gz
